@@ -12,5 +12,7 @@ pip install easygui ftplib
 
 
 Running :
+
  After cloning, being in the same directory --> python server.py
+ 
  Open a new command prompt and type "python client.py"
